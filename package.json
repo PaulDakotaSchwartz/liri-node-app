@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "like Siri only smaller",
+  "main": "index.js",
+  "scripts": {
+    "test": "yo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulDakotaSchwartz/liri-node-app.git"
+  },
+  "author": "Paul D Schwartz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulDakotaSchwartz/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/PaulDakotaSchwartz/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
